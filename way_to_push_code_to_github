@@ -1,0 +1,12 @@
+Create directory
+go inside directory
+git init
+vi filename and enter your code
+git add .
+git commit -m "my first code pushed to github"
+git status
+git log
+git show <commit-id>
+git remote add origin <central repo url>
+git push -u origin master
+(now enter credentials)
