@@ -10,3 +10,4 @@ git show <commit-id>
 git remote add origin <central repo url>
 git push -u origin master
 (now enter credentials)
+This line is added by singapore vm for testing
